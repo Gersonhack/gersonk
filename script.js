@@ -7,7 +7,7 @@ var linkProjetos = [
 		title: "sobre",
 		subTitle: "nós",
 		resumo:
-			"explicador de Matemática, Física e Química	Venho informar aos meus estimados que presto serviços de explicação de  Matemática  Física e  Química presencial e ao domicílio.",
+			"Nós somos um Centro de Preparação Vamos a Universidade Pública, nosso centro está localizado no 25 de Junho em Choupal A, somos uma instituição trabalhamos na área há mais de 7 anos.",
 		like: 22
 	},
 	{
